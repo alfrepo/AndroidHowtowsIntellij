@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="httpclient-4.0-beta1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ToDoLite-Android/libraries/couchbase-lite-java-core/libs/httpclient-4.0-beta1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

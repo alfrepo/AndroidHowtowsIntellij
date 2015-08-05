@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <com.sothree.slidinguppanel.SlidingUpPanelLayout
+        android:id="@+id/slidingLayout"
+        android:gravity="top"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        app:shadowHeight="25dp"
+        app:panelHeight="@dimen/panel_height"
+         >
+
+        <FrameLayout
+            android:id="@+id/FragmentMainContentContainer"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            app:paralaxOffset="0dp">
+
+              <fragment android:id="@+id/fragmentMainContent"
+		        class="com.amberfog.mapslidingtest.app.FragmentMainContent"
+		        android:layout_width="match_parent"
+		        android:layout_height="match_parent"/>
+        </FrameLayout>
+	
+        <FrameLayout
+            android:id="@+id/FragmentSlidingPanelContainer"
+            android:layout_width="fill_parent"
+            android:layout_height="300dp">
+
+              <fragment android:id="@+id/fragmentSlidingPanel"
+		        class="com.amberfog.mapslidingtest.app.FragmentSlidingPanel"
+		        android:layout_width="match_parent"
+		        android:layout_height="match_parent"/>
+        </FrameLayout>
+    </com.sothree.slidinguppanel.SlidingUpPanelLayout>
+
+    <!-- more code here -->
+</RelativeLayout>

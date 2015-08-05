@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidHowtowsIntellij.iml" filepath="$PROJECT_DIR$/AndroidHowtowsIntellij.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CouchDbExperiment/CouchDbExperiment.iml" filepath="$PROJECT_DIR$/CouchDbExperiment/CouchDbExperiment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloAnimatedLayoutChange/HelloAnimatedLayoutChange.iml" filepath="$PROJECT_DIR$/HelloAnimatedLayoutChange/HelloAnimatedLayoutChange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloAphidFlipViewDemo/HelloAphidFlipViewDemo.iml" filepath="$PROJECT_DIR$/HelloAphidFlipViewDemo/HelloAphidFlipViewDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloAphidFlipViewLibrary/HelloAphidFlipViewLibrary.iml" filepath="$PROJECT_DIR$/HelloAphidFlipViewLibrary/HelloAphidFlipViewLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloDragDrop/HelloDragDrop.iml" filepath="$PROJECT_DIR$/HelloDragDrop/HelloDragDrop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloSlidingUpPanel/HelloSlidingUpPanel.iml" filepath="$PROJECT_DIR$/HelloSlidingUpPanel/HelloSlidingUpPanel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloVerticalSlider/HelloVerticalSlider.iml" filepath="$PROJECT_DIR$/HelloVerticalSlider/HelloVerticalSlider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ToDoLite-Android/ToDoLite/ToDoLite.iml" filepath="$PROJECT_DIR$/ToDoLite-Android/ToDoLite/ToDoLite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ToDoLite-Android/libraries/couchbase-lite-android/couchbase-lite-android.iml" filepath="$PROJECT_DIR$/ToDoLite-Android/libraries/couchbase-lite-android/couchbase-lite-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ToDoLite-Android/libraries/couchbase-lite-java-core/couchbase-lite-java-core.iml" filepath="$PROJECT_DIR$/ToDoLite-Android/libraries/couchbase-lite-java-core/couchbase-lite-java-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ToDoLite-Android/libraries/facebook/facebook.iml" filepath="$PROJECT_DIR$/ToDoLite-Android/libraries/facebook/facebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hellogradle/hellogradle.iml" filepath="$PROJECT_DIR$/hellogradle/hellogradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/libraries.iml" filepath="$PROJECT_DIR$/libraries/libraries.iml" />
+    </modules>
+  </component>
+</project>

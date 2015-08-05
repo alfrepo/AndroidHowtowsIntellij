@@ -1,0 +1,5 @@
+include ':HelloAphidFlipViewLibrary', ':HelloSlidingUpPanel', ':HelloAphidFlipViewDemo', ':HelloDragDrop', ':HelloAnimatedLayoutChange', ':libraries:facebook', ':libraries:couchbase-lite-java-core', ':libraries:couchbase-lite-android', ':ToDoLite', ':hellogradle', 'CouchDbExperiment', ':HelloVerticalSlider'
+project(':libraries:facebook').projectDir = new File('ToDoLite-Android/libraries/facebook')
+project(':libraries:couchbase-lite-java-core').projectDir = new File('ToDoLite-Android/libraries/couchbase-lite-java-core')
+project(':libraries:couchbase-lite-android').projectDir = new File('ToDoLite-Android/libraries/couchbase-lite-android')
+project(':ToDoLite').projectDir = new File('ToDoLite-Android/ToDoLite')
